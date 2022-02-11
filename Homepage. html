@@ -1,0 +1,65 @@
+<Doctype html>
+
+	<html lange="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>SPOTIFY
+
+		</title>
+		<link rel="stylesheet" href="https://tse2.mm.bing.net/th?id=OIP.fkSXxvt9TDjfoykMqGhrWAHaHa&pid=Api&P=0&w=164&h=164">
+<link rel="stylesheet" href="style.css">
+
+
+
+
+	</head>
+
+<body background="https://wallpapercave.com/wp/wp5702777.jpg">
+<nav>
+         <label class="logo">HARDCORE MUSIC</label>
+         <ul>
+            <li><a class="active" href="#">Home</a></li>
+            <li>
+               <a href="#">VIDEO
+               <i class="fas fa-caret-down"></i>
+               </a>
+               <ul>
+                  <li><a href="#">BTS</a></li>
+                  <li><a href="#">CHARLIE</a></li>
+                  <li><a href="#">JUSTIN</a></li>
+               </ul>
+            </li>
+           
+            <li><a href="#">LISTEN</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">LOGIN</a></li>
+         </ul>
+      </nav>
+
+<br>
+<br>
+<br>
+
+
+<div class="row">
+   <div class="col">
+<h1 style="text-align: center">Music Is Life</h1><br><br><br>
+
+<button class="button" >
+   <a  href="E:\ALL PROJECTS\PROJECT2\free.html">FREE TRIAL </a> </button>&nbsp &nbsp &nbsp &nbsp
+<button class="button" >
+   <a  href="E:\ALL PROJECTS\PROJECT2\free.html">JOIN NOW</a> </button>
+</div>
+
+
+</div>
+</div>
+ 
+
+
+
+
+</body>
+
+
+	</html>
